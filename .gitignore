@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/
+db/
+models/
+scratch/
+task.md
+.antigravitycli
+settings.local.json
